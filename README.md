@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GreydenB
+- 👀 I’m interested in Computer Science, Programing, AI, ML, and Cybersecurity.
+- 🌱 I’m currently learning Computer Science at New Century Technology High School
+- 📫 How to reach me at greybadgett@gmail.com
